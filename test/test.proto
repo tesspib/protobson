@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package protobson.test;
 
-option go_package = "github.com/ThePib/taalapi/pkg/database/protobson/test";
+option go_package = "github.com/tesspib/protobson/test";
 
 enum Enum {
   VAL_0 = 0;

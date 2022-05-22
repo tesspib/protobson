@@ -1,7 +1,7 @@
 # protobson
 
-[![GoDev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/mod/github.com/ThePib/protobson)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ThePib/protobson)](https://goreportcard.com/report/github.com/ThePib/protobson)
+[![GoDev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/github.com/tesspib/protobson)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tesspib/protobson)](https://goreportcard.com/report/github.com/tesspib/protobson)
 
 ## Description
 
@@ -28,7 +28,7 @@ import (
     "go.mongodb.org/mongo-driver/mongo/options"
     "google.golang.org/protobuf/proto"
 
-    "github.com/ThePib/protobson"
+    "github.com/tesspib/protobson"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	pb_test "github.com/ThePib/protobson/test"
+	pb_test "github.com/tesspib/protobson/test"
 	"go.mongodb.org/mongo-driver/bson"
 	"google.golang.org/protobuf/proto"
 )
